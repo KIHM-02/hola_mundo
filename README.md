@@ -1,5 +1,6 @@
 # HELLO_WORLD
-Repositorio de prueba
+Repositorio de la amistad
 
-Autor: Kevin Isaac
+Autor: Kevin Isaac, Clau y Diego
 Fecha: 06/02/2022
+:D
