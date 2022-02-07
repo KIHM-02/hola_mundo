@@ -1,4 +1,4 @@
-# hola_mundo
+# HELLO_WORLD
 Repositorio de prueba
 
 Autor: Kevin Isaac
